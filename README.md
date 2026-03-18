@@ -32,7 +32,7 @@ Ponieważ gra jest w fazie deweloperskiej, najprostszym sposobem na jej uruchomi
 ### KROK 1: Pobranie kodu
 Możesz pobrać projekt bezpośrednio z GitHuba:
 ```bash
-git clone https://github.com/twoj-uzytkownik/Pi_Game.git
+git clone https://github.com/jan-bladek/Pi_Game.git
 ```
 *(Lub pobierz jako plik .ZIP i rozpakuj na dysku).*
 
